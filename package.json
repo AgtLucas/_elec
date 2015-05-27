@@ -1,0 +1,19 @@
+{
+  "name": "elec",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgtLucas/_elec.git"
+  },
+  "author": "Lucas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AgtLucas/_elec/issues"
+  },
+  "homepage": "https://github.com/AgtLucas/_elec#readme"
+}
