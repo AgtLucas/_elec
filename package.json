@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AgtLucas/_elec/issues"
   },
-  "homepage": "https://github.com/AgtLucas/_elec#readme"
+  "homepage": "https://github.com/AgtLucas/_elec#readme",
+  "devDependencies": {
+    "electron-prebuilt": "^0.26.1"
+  }
 }
