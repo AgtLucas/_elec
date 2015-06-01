@@ -1,5 +1,8 @@
 var app = require('app');
 var BrowserWindow = require('browser-window');
+var menubar = require('menubar');
+
+var mb = menubar();
 
 require('crash-reporter').start();
 
@@ -20,4 +23,8 @@ app.on('ready', function() {
   mainWindow.on('closed', function() {
     mainWindow = null;
   });
+});
+
+mb.on('ready', function ready() {
+
 });
