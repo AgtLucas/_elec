@@ -18,5 +18,8 @@
   "homepage": "https://github.com/AgtLucas/_elec#readme",
   "devDependencies": {
     "electron-prebuilt": "^0.26.1"
+  },
+  "dependencies": {
+    "menubar": "^2.0.11"
   }
 }
